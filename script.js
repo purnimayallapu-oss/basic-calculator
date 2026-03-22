@@ -20,6 +20,8 @@ function div() {
     let a = Number(document.getElementById("num1").value);
     let b = Number(document.getElementById("num2").value);
 
+    console.log("b value:",b);
+    
     if (b == 0) {
         document.getElementById("result").innerText = "❌ Cannot divide by zero";
     } else {
