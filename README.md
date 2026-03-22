@@ -27,7 +27,7 @@ It performs basic arithmetic operations and helped me understand how real applic
 ---
 
 ## 📸 Screenshot
-[calculator UI](screenshot.png)
+[calculator Screenshot](Screenshot.png)
 
 ---
 
